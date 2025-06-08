@@ -12,3 +12,8 @@ git push
 git add .
 git add 파일이름
 git commit -m "집에 가고싶다."
+git push
+집에 가기 싫다.
+git add .
+git commit -m "집에 가고싶어요"
+git commit --amend -m "집에 가기 싫다."
