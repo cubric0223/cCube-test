@@ -1,4 +1,1 @@
 branch.txt 저는 팀원 A입니다.
-// 터미널
-git add .
-git commit -m "팀원 A 입니다."
