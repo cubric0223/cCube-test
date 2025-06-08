@@ -1,4 +1,4 @@
-branch.txt
+branch.txt 저는 팀원 B 입니다.
 // 터미널
-git checkout -b develop
-git checkout main
+git add .
+git commit -m "B 완료"
