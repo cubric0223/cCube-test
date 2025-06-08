@@ -6,3 +6,9 @@ git add file.txt
 
 git commit -m "텍스트 파일 생성"
 git commit 
+git push
+집에 가고 싶다.
+// 터미널
+git add .
+git add 파일이름
+git commit -m "집에 가고싶다."
